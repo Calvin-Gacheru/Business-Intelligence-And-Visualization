@@ -24,3 +24,4 @@ The goal of this repository is to demonstrate practical applications of Power BI
 - Business intelligence
 - Data-driven decision-making
 - Communicating insights effectively to stakeholders
+
