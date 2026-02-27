@@ -16,6 +16,8 @@ This collection highlights expertise in:
 
 ### Repository Structure
 - Assignment One
+- Assignment Two
+- Mid Semester Project
 
 ### View Projects Locally
 Download Power BI Desktop and open the `.pbix` files to explore the interactive dashboards and reports with full functionality.
