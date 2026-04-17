@@ -1,58 +1,82 @@
-# Business Intelligence & Visualization
+`# Business Intelligence and Visualization Portfolio
 
-A professional portfolio showcasing advanced business analytics and data visualization projects using Microsoft Power BI. This repository demonstrates the transformation of raw data into actionable intelligence through interactive dashboards, comprehensive reports, and data-driven storytelling.
+A curated portfolio of Business Intelligence projects focused on converting raw datasets into interactive analytics, executive dashboards, and decision-ready insights using Microsoft Power BI.
 
-## Overview
+Quick navigation: [Assignment One](Assignment%20One/) | [Mid Semester Project](Mid%20Semester%20Project/) | [End Semester Project](End%20Semester%20Project/)
 
-This collection highlights expertise in:
+## Table of Contents
 
-- **Data Modeling & Transformation** – Structuring complex datasets for analysis
-- **Interactive Dashboards** – Real-time visual analytics for business monitoring
-- **Advanced Reporting** – Comprehensive insights for stakeholder decision-making
-- **Data Storytelling** – Communicating complex information through compelling visuals
-- **Business Analytics** – Performance metrics, trend analysis, and KPI tracking
+- [Portfolio Snapshot](#portfolio-snapshot)
+- [Featured Projects](#featured-projects)
+- [Repository Map](#repository-map)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools and Technologies](#tools-and-technologies)
+- [How to Explore](#how-to-explore)
+- [License](#license)
 
-## Getting Started
+## Portfolio Snapshot
 
-### Repository Structure
-- [Assignment One](Assignment%20One/) - Introductory BI assignment deliverables
-- [Mid Semester Project](Mid%20Semester%20Project/) - Restaurant sales analytics project assets
-- [End Semester Project](End%20Semester%20Project/) - Healthcare no-show analytics project assets
+| Category | Details |
+|---|---|
+| Number of projects | 3 |
+| Focus domains | Sales analytics, business performance reporting, healthcare operations analytics |
+| Primary platform | Microsoft Power BI |
+| Analytical workflow | Data cleaning, transformation, data modeling, DAX, dashboard storytelling |
 
-### Project Documentation Links
-- [Assignment One README](Assignment%20One/README.md)
-- [Mid Semester Project README](Mid%20Semester%20Project/README.md)
-- [End Semester Project README](End%20Semester%20Project/README.md)
+## Featured Projects
 
-### Top-Level Layout
+| Project | Focus Area | Key Deliverables | Quick Links |
+|---|---|---|---|
+| Assignment One | Introductory BI analysis and dashboard reporting | Assignment Results.pbix, Assignment Results.pdf | [Folder](Assignment%20One/) • [README](Assignment%20One/README.md) |
+| Mid Semester Project | Restaurant sales analytics with structured modeling and KPI tracking | Mid Semester Queries.pbix, Final Results.md, Data Split.ipynb | [Folder](Mid%20Semester%20Project/) • [README](Mid%20Semester%20Project/README.md) |
+| End Semester Project | Predictive no-show analytics and executive healthcare dashboarding | PowerBI Report.pbix, REPORT.pdf | [Folder](End%20Semester%20Project/) • [README](End%20Semester%20Project/README.md) |
+
+## Repository Map
+
 ```text
 Business-Intelligence-And-Visualization/
-├── Assignment One/
-├── Mid Semester Project/
-└── End Semester Project/
+|-- README.md
+|-- LICENSE
+|-- Assignment One/
+|   |-- README.md
+|   |-- Assignment Results.pbix
+|   `-- Assignment Results.pdf
+|-- Mid Semester Project/
+|   |-- README.md
+|   |-- Final Results.md
+|   |-- Mid Semester Queries.pbix
+|   `-- Data/
+`-- End Semester Project/
+    |-- README.md
+    |-- REPORT.pdf
+    |-- PowerBI Report.pbix
+    `-- Data/
 ```
 
-### View Projects Locally
-Download Power BI Desktop and open the `.pbix` files to explore the interactive dashboards and reports with full functionality.
+## Skills Demonstrated
 
-## Use Cases
+- Data preparation and cleaning for analysis-ready datasets
+- Relational modeling and star schema design in Power BI
+- DAX measures and calculated columns for KPI development
+- Interactive dashboard design for executive and operational reporting
+- Insight communication through visual storytelling and documentation
 
-This repository demonstrates practical applications for:
+## Tools and Technologies
 
-- **Business Intelligence** – Converting data into strategic insights
-- **Data-Driven Decision Making** – Supporting management with actionable information
-- **Stakeholder Communication** – Translating technical analysis into business value
-- **Performance Monitoring** – Tracking KPIs and business metrics in real-time
-- **Trend Analysis** – Identifying patterns and forecasting future outcomes
+| Layer | Tools |
+|---|---|
+| Business Intelligence | Microsoft Power BI |
+| Data Preparation | Power Query, CSV, Excel |
+| Analytical Logic | DAX |
+| Documentation and Versioning | Markdown, GitHub |
 
-## Technologies & Tools
+## How to Explore
 
-- **Microsoft Power BI** – Data visualization and business analytics
-- **Excel / Data Sources** – Data preparation and source management
-- **DAX (Data Analysis Expressions)** – Advanced calculations and measures
+1. Open a project folder from the Featured Projects section.
+2. Read that project's README for context, methodology, and outcomes.
+3. Open the corresponding `.pbix` file in Power BI Desktop to explore interactivity.
+4. Review supporting reports (`.pdf` / `.md`) for detailed write-ups.
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
