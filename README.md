@@ -15,9 +15,22 @@ This collection highlights expertise in:
 ## Getting Started
 
 ### Repository Structure
-- Assignment One
-- Assignment Two
-- Mid Semester Project
+- [Assignment One](Assignment%20One/) - Introductory BI assignment deliverables
+- [Mid Semester Project](Mid%20Semester%20Project/) - Restaurant sales analytics project assets
+- [End Semester Project](End%20Semester%20Project/) - Healthcare no-show analytics project assets
+
+### Project Documentation Links
+- [Assignment One README](Assignment%20One/README.md)
+- [Mid Semester Project README](Mid%20Semester%20Project/README.md)
+- [End Semester Project README](End%20Semester%20Project/README.md)
+
+### Top-Level Layout
+```text
+Business-Intelligence-And-Visualization/
+├── Assignment One/
+├── Mid Semester Project/
+└── End Semester Project/
+```
 
 ### View Projects Locally
 Download Power BI Desktop and open the `.pbix` files to explore the interactive dashboards and reports with full functionality.
@@ -41,9 +54,5 @@ This repository demonstrates practical applications for:
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**Calvin Gacheru** – Business Intelligence & Data Analytics
 
 ---
